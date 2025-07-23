@@ -1,7 +1,0 @@
-modules:
-  planning:
-    command: source /mnt/d/forklift/devel/setup.bash && python3 /mnt/d/forklift/dev/composition_root.py
-    restart_on_failure: true
-  localization:
-    command: /bin/sleep 1000
-    restart_on_failure: false
