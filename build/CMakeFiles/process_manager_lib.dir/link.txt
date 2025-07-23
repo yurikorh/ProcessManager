@@ -1,2 +1,0 @@
-/usr/bin/ar qc libprocess_manager_lib.a  CMakeFiles/process_manager_lib.dir/src/command_parser.cpp.o CMakeFiles/process_manager_lib.dir/src/process_launcher.cpp.o CMakeFiles/process_manager_lib.dir/src/signal_handler_new.cpp.o CMakeFiles/process_manager_lib.dir/src/process_manager.cpp.o CMakeFiles/process_manager_lib.dir/src/config.cpp.o
-/usr/bin/ranlib libprocess_manager_lib.a
